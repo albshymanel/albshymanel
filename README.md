@@ -7,3 +7,5 @@
 <code>📦 Tech stack: node.js, react</code><br>
 <code>💬 telegram: [@albert_shymanel](https://telegram.me/albert_shymanel)</code>
 <code>📫 [albshimanel@gmail.com](mailto:albshimanel@gmail.com)</code>
+<code>💬 linkedin: [@albert-shymanel](https://www.linkedin.com/in/albert-shymanel-24a77b193)</code>
+
